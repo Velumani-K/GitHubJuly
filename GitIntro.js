@@ -3,3 +3,7 @@ function name(){
 }
 name()
 
+function greetings() {
+  console.log("Hello");
+}
+gretting()
